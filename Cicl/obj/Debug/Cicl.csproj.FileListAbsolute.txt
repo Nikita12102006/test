@@ -1,0 +1,7 @@
+A:\Губернский колледж дз\Инструментальные срдства\Cicl\Cicl\bin\Debug\Cicl.exe.config
+A:\Губернский колледж дз\Инструментальные срдства\Cicl\Cicl\bin\Debug\Cicl.exe
+A:\Губернский колледж дз\Инструментальные срдства\Cicl\Cicl\bin\Debug\Cicl.pdb
+A:\Губернский колледж дз\Инструментальные срдства\Cicl\Cicl\obj\Debug\Cicl.csproj.AssemblyReference.cache
+A:\Губернский колледж дз\Инструментальные срдства\Cicl\Cicl\obj\Debug\Cicl.csproj.CoreCompileInputs.cache
+A:\Губернский колледж дз\Инструментальные срдства\Cicl\Cicl\obj\Debug\Cicl.exe
+A:\Губернский колледж дз\Инструментальные срдства\Cicl\Cicl\obj\Debug\Cicl.pdb

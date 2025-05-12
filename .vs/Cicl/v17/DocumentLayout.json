@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\\u0413\u0443\u0431\u0435\u0440\u043D\u0441\u043A\u0438\u0439 \u043A\u043E\u043B\u043B\u0435\u0434\u0436 \u0434\u0437\\\u0418\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0434\u0441\u0442\u0432\u0430\\Cicl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9926634-A5BA-4452-92C4-E153E343DD91}|Cicl\\Cicl.csproj|a:\\\u0433\u0443\u0431\u0435\u0440\u043D\u0441\u043A\u0438\u0439 \u043A\u043E\u043B\u043B\u0435\u0434\u0436 \u0434\u0437\\\u0438\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0434\u0441\u0442\u0432\u0430\\cicl\\cicl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9926634-A5BA-4452-92C4-E153E343DD91}|Cicl\\Cicl.csproj|solutionrelative:cicl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\\u0413\u0443\u0431\u0435\u0440\u043D\u0441\u043A\u0438\u0439 \u043A\u043E\u043B\u043B\u0435\u0434\u0436 \u0434\u0437\\\u0418\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0434\u0441\u0442\u0432\u0430\\Cicl\\Cicl\\Program.cs",
+              "RelativeDocumentMoniker": "Cicl\\Program.cs",
+              "ToolTip": "A:\\\u0413\u0443\u0431\u0435\u0440\u043D\u0441\u043A\u0438\u0439 \u043A\u043E\u043B\u043B\u0435\u0434\u0436 \u0434\u0437\\\u0418\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0434\u0441\u0442\u0432\u0430\\Cicl\\Cicl\\Program.cs",
+              "RelativeToolTip": "Cicl\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:34:44.433Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
